@@ -14,6 +14,7 @@
 		./cmp.nix
 		./lsp.nix
 		./opts.nix
+		./treesitter.nix
 	];
 
   clipboard = {
