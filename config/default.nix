@@ -13,5 +13,6 @@
 		./neo-tree.nix
 		./keymaps.nix
 		./cmp.nix
+		./lsp.nix
 	];
 }
