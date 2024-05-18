@@ -7,5 +7,6 @@
 		./catppuccin.nix
 		./flash.nix
 		./lualine.nix
+		./mini.nix
 	];
 }
