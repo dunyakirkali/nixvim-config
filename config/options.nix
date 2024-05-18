@@ -25,4 +25,15 @@
     fileencoding = "utf-8";
     swapfile = false;
   };
+
+  clipboard = {
+    register = "unnamedplus";
+    providers.wl-copy.enable = true;
+  };
+
+  globals = {
+    mapleader = " ";
+    maplocalleader = "\\";
+    autoformat = true;
+  };
 }
