@@ -16,6 +16,7 @@
 		./opts.nix
 		./treesitter.nix
 		./copilot.nix
+		./markdown-preview.nix
 	];
 
   clipboard = {
