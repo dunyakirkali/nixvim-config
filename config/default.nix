@@ -1,7 +1,6 @@
 {
   # Import all your configuration modules here
   imports = [
-		./options.nix
 		./bufferline.nix
 		./telescope.nix
 		./catppuccin.nix
@@ -14,5 +13,17 @@
 		./keymaps.nix
 		./cmp.nix
 		./lsp.nix
+		./opts.nix
 	];
+
+  clipboard = {
+    register = "unnamedplus";
+    providers.wl-copy.enable = true;
+  };
+
+  globals = {
+    mapleader = " ";
+    maplocalleader = "\\";
+    autoformat = true;
+  };
 }
