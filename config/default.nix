@@ -18,6 +18,7 @@
 		./copilot.nix
 		./markdown-preview.nix
 		./zen-mode.nix
+		./gitsigns.nix
 	];
 
   clipboard = {
