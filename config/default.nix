@@ -5,5 +5,6 @@
 		./bufferline.nix
 		./telescope.nix
 		./catppuccin.nix
+		./flash.nix
 	];
 }
