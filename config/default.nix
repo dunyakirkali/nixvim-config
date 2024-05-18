@@ -15,6 +15,7 @@
 		./lsp.nix
 		./opts.nix
 		./treesitter.nix
+		./copilot.nix
 	];
 
   clipboard = {
