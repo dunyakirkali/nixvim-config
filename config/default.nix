@@ -8,5 +8,6 @@
 		./flash.nix
 		./lualine.nix
 		./mini.nix
+		./noice.nix
 	];
 }
