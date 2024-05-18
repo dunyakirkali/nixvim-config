@@ -17,6 +17,7 @@
 		./treesitter.nix
 		./copilot.nix
 		./markdown-preview.nix
+		./zen-mode.nix
 	];
 
   clipboard = {
