@@ -9,5 +9,6 @@
 		./lualine.nix
 		./mini.nix
 		./noice.nix
+		./which-key.nix
 	];
 }
