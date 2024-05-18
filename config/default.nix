@@ -19,6 +19,7 @@
 		./markdown-preview.nix
 		./zen-mode.nix
 		./gitsigns.nix
+		./luasnip.nix
 	];
 
   clipboard = {
