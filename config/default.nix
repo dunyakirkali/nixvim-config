@@ -6,5 +6,6 @@
 		./telescope.nix
 		./catppuccin.nix
 		./flash.nix
+		./lualine.nix
 	];
 }
