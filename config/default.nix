@@ -33,4 +33,14 @@
     maplocalleader = "\\";
     autoformat = true;
   };
+
+	extraPlugins = [
+		pkgs.vimPlugins.vim-pencil
+		pkgs.vimPlugins.plenary-nvim
+		pkgs.vimPlugins.noice-nvim
+		pkgs.vimPlugins.nui-nvim
+		pkgs.vimPlugins.nvim-web-devicons
+		pkgs.vimPlugins.open-browser-vim
+		pkgs.vimPlugins.plantuml-previewer-vim
+	];
 }
