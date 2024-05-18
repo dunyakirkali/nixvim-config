@@ -12,5 +12,6 @@
 		./which-key.nix
 		./neo-tree.nix
 		./keymaps.nix
+		./cmp.nix
 	];
 }
