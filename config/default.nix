@@ -10,5 +10,6 @@
 		./mini.nix
 		./noice.nix
 		./which-key.nix
+		./neo-tree.nix
 	];
 }
