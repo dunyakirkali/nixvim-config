@@ -25,6 +25,8 @@
 		./spectre.nix
 		./trouble.nix
 		./todo-comments.nix
+		./lint.nix
+		./conform.nix
 	];
 
   clipboard = {
