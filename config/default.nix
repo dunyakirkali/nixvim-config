@@ -21,6 +21,7 @@
 		./zen-mode.nix
 		./gitsigns.nix
 		./luasnip.nix
+		./friendly-snippets.nix
 	];
 
   clipboard = {
