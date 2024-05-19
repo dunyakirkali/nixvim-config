@@ -24,6 +24,7 @@
 		./friendly-snippets.nix
 		./spectre.nix
 		./trouble.nix
+		./todo-comments.nix
 	];
 
   clipboard = {
