@@ -22,6 +22,7 @@
 		./gitsigns.nix
 		./luasnip.nix
 		./friendly-snippets.nix
+		./spectre.nix
 	];
 
   clipboard = {
