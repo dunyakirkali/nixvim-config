@@ -23,6 +23,7 @@
 		./luasnip.nix
 		./friendly-snippets.nix
 		./spectre.nix
+		./trouble.nix
 	];
 
   clipboard = {
