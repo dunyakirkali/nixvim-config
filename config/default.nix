@@ -27,6 +27,7 @@
 		./todo-comments.nix
 		./lint.nix
 		./conform.nix
+		./persistence.nix
 	];
 
   clipboard = {
